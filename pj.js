@@ -1,5 +1,5 @@
 /*!
- * Proxim Jardin Planning
+ * 
  * Version: 2.5 19/07/23
  *
  * Copyright (c) 2019 - 2022 Proxim Jardin ALL RIGHTS RESERVED
